@@ -1,0 +1,2 @@
+# Szmodellbef
+házi feladat befejezése
